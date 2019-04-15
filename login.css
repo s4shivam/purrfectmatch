@@ -1,0 +1,13 @@
+body{
+  background : linear-gradient(90deg, rgba(39, 174, 232,1) 20.09375%,rgba(39, 174, 232,1) 21.34375%,rgba(158, 0, 236,1) 80.09375%);
+}
+.col{
+  text-align: center;
+}
+.content{
+  margin: 50px 30px;
+  padding: 30px;
+  border: 2px solid black;
+  border-radius: 100% 10% 100% 10% / 10% 94% 10% 100%  ;
+  overflow: hidden;
+}
